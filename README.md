@@ -1,6 +1,6 @@
 # Dynamic Star Network
 
-This is my final project for Computer Networking I course. It is a way to reliably broadcast either ASCII strings or files to other nodes on the network. The network is also a self-organizing dynamic network, which means that the network reorganizes itself to make sending messages as quick as possible, and it has one central node.
+This is my final project for my Computer Networking I course. It is a way to reliably broadcast either ASCII strings or files to other nodes on the network. The network is also a self-organizing dynamic network, which means that the network reorganizes itself to make sending messages as quick as possible, and it has one central node.
 
 ## Running the Star-Node
 To run the star-node, you must run this following command:
